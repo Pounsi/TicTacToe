@@ -1,0 +1,20 @@
+td {
+  padding:40px;
+  border: 1px solid;
+  border-radius: 0px;
+  border-color: blue;
+background-color: white;
+}
+table {
+background-color: blue;
+}
+
+.joueur1{
+background-color: red;
+border-radius: 90px;
+}
+
+.joueur2{
+background-color: yellow;
+border-radius: 0px;
+}
